@@ -5,6 +5,8 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.math.BigDecimal;
+
 @Data
 @Builder
 @AllArgsConstructor
@@ -18,4 +20,6 @@ public class OrderItemsSummaryVO {
     private String nameProduct;
 
     private Integer amount;
+
+    private BigDecimal unitaryValue;
 }
