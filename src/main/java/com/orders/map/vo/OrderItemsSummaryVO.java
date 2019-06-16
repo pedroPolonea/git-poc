@@ -16,4 +16,6 @@ public class OrderItemsSummaryVO {
     private Long idOrder;
 
     private String nameProduct;
+
+    private Integer amount;
 }
