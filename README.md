@@ -1,6 +1,20 @@
 ## Git Poc
 Este projeto foi criado com o intuito de servir como insumo para praticar Git.
 
+## Requirements
+* Spring Boot 2.x
+* Java 11
+* Git instalado
+
+## :baby: Baby steps
+* Treinar os comandos do git.
+
+## Current Version
+0.1
+___
+Pedro Polonea
+___
+
 
 ![Optional Text](./src/main/resources/image/0.jpeg)
 
